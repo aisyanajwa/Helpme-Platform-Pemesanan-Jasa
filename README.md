@@ -1,6 +1,4 @@
-# HelpMe!  
-Platform Pemesanan Jasa Serbaguna Berbasis Web  
-(Project Management Academic Project)
+# HelpMe! Platform Pemesanan Jasa Serbaguna Berbasis Web  
 
 ## Deskripsi Proyek
 
@@ -109,7 +107,6 @@ Proyek ini merupakan **simulasi akademik** dan tidak ditujukan untuk penggunaan 
 
 ---
 
-## Lisensi
 
 Dokumen dan artefak dalam repository ini dibuat untuk keperluan akademik.  
 Hak cipta © 2025 – Tim HelpMe!, Program Studi Sains Data, Telkom University Surabaya.
