@@ -60,7 +60,7 @@ Tujuan utama pengembangan aplikasi ini adalah membangun platform pemesanan jasa 
 ---
 
 ## Tim Pengembang
-- **Aisya Mufidah Najwa**  
+- Aisya Mufidah Najwa  
 - Mutiara Elzella Putri  
 - Tyavan Mirantino  
 - Inaya Revalina Putri M.  
