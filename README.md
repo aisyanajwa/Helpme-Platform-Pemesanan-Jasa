@@ -59,6 +59,11 @@ Tujuan utama pengembangan aplikasi ini adalah membangun platform pemesanan jasa 
 
 ---
 
+### Desain Website: [Link Desain](https://www.figma.com/make/Zb6rfgMT7eQ4hKfyHbs8A1/HelpMe-?fullscreen=1&t=7CWKWmaRGzbOxG2S-1)
+
+---
+
+
 ## Tim Pengembang
 - Aisya Mufidah Najwa  
 - Mutiara Elzella Putri  
